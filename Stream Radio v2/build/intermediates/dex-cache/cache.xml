@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-c23b6db65e05ced33c46d0bff9f863bb1d956dea.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-eceec5abbe8de736357b7392e1ec89cc497ac5ea.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-cce376cba8b089a04dac3cd6825f7ca1f8b9f779.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-0a0e746ec980f59676810940b6e70f498a6863d6.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/Stream Radio v2/initActivity/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb66c2a6e70eb0992e57f3f9e03aa6ce8b997108">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-8bcf4bb92614c24b00e34b06caa60468bc9f636d.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-34ae7febc850def11b97989963c7297d32c5178b.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-8a42a2e6c7d2888612e5fbd96b62a43cd40f7061.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-f2c35a0006c3498741990177bfa0e242adcb9e41.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-0a36fd3a0762d4d64d770a95e961b2ae0f9080c4.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-cdd98caa7f766931c3d0b96986f67d10bc306f86.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-fa0962dac92bbdb02495534e19b863666cfad04c.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-4f1beff5564eb5953fad84b856e7e4e1c3dab50c.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-0e98d3c1a9472c433e86ef8ad83f54a08892a904.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-23c0524ea509b3b960af21faec53c4685f172bca.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-d036a292964d555c3381e1aafc53c0d8ad537b14.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-c82b41867eb1abe6663bf14f5fe9e2d4dc2483fc.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-532e43bf81e48d26fddb0811f73561364d7cbbfc.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-d93fbbeea1a6b7c22a0082caabdbc41e0fa94f7d.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-22a6fde628375fb469c37885e3bb0dfe6a4c8665.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-3e03997553e85df15f8a5d6c0a2822fe0db45593.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-b4f5705f976a26afbe0adf8af4cdda78f2c77c44.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-a3372133740b2dc5746d1dc15bbebacebd191348.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-55792227e094152af5ec1bd4a3f1929bc728dc69.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-e36e199a4ee64ba730f7fae7654afdb4744fceed.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ef6ac43f8478b9ac3bb72d0d28f455e6effe6712.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-d1bd4c00d90ba737550ea632af77259c1f0ced71.jar" />
+    </item>
+    <item
+        jar="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/shahab/Desktop/codecanyon-8676912-stream-radio-multiple-station/Stream Radio v2/streamRadiov2/build/intermediates/pre-dexed/debug/classes-e1fbdba9cbf73f22f39ee2d270961c0f38573fda.jar" />
+    </item>
+
+</items>
